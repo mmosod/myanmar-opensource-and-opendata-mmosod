@@ -1,0 +1,24 @@
+{
+  "name": "myanmar-opensource-and-opendata-mmosod",
+  "version": "1.0.0",
+  "description": "website collecting myanmar open source & open data list",
+  "main": "index.js",
+  "scripts": {
+    "dev":"vuepress dev pages",
+    "build":"vuepress build pages"
+  },
+  "repository": "git+https://github.com/mmosod/myanmar-opensource-and-opendata-mmosod.git",
+  "keywords": [
+    "opensource",
+    "myanmar"
+  ],
+  "author": "minsithu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmosod/myanmar-opensource-and-opendata-mmosod/issues"
+  },
+  "homepage": "https://github.com/mmosod/myanmar-opensource-and-opendata-mmosod#readme",
+  "dependencies": {
+    "vuepress": "^1.6.0"
+  }
+}
