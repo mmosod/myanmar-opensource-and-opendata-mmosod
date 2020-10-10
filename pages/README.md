@@ -4,3 +4,4 @@
 
 <SearchBox/>
 <CategoryList/>
+<ProjectList/>

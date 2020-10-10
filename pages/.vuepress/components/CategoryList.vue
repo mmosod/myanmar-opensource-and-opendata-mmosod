@@ -13,11 +13,11 @@ export default {
     data(){
         return {
             categories:[
-                "Algorithms & Data Structures","Animation","Audio Processing","Build Tools","Compilers",
+                "Algorithms & Data Structures","Animation","Applications","Audio Processing","Build Tools","Compilers",
                 "Data Science & ML","Data Sets","Development Tools","Electronics & Hardware",
                 "Frameworks","Games","Graphics","Image","Mathematics",
                 "Mobile","Networking","Open APIs","Operating Systems","Pdfs",
-                "Security tools","Typography & Fonts","User Interface","Videos","Web",   
+                "Security tools","Typography & Fonts","User Interface","Videos","Web Servers",   
             ]
         }
     }
