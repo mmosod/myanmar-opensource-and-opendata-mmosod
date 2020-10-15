@@ -2,7 +2,9 @@
     <section>
         <h2>Categories</h2>
         <ul>
-            <li v-for="category in categories">{{category}}</li>
+            <li v-for="category in categories">
+                <router-link :to="`/category.html?name=${category}`">{{category}}</router-link>
+            </li>
         </ul>
     </section>
 </template>
@@ -16,7 +18,7 @@ export default {
                 "Algorithms & Data Structures","Animation","Applications","Audio Processing","Build Tools","Compilers",
                 "Data Science & ML","Data Sets","Development Tools","Electronics & Hardware",
                 "Frameworks","Games","Graphics","Image","Mathematics",
-                "Mobile","Networking","Open APIs","Operating Systems","Pdfs",
+                "Mobile","Networking","NLP","Open APIs","Operating Systems","Pdfs",
                 "Security tools","Typography & Fonts","User Interface","Videos","Web Servers",   
             ]
         }

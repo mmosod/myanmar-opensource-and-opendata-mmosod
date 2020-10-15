@@ -18,9 +18,7 @@ export default {
         }
     },
     mounted(){
-        let projects = this.$site.pages.filter(page=>{
-            console.log(page);
-            
+        let projects = this.$site.pages.filter(page=>{            
             return page.frontmatter.type == "project";
         })
         this.projects = projects;

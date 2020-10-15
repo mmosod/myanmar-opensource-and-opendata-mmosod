@@ -1,13 +1,23 @@
 <template>
     <section class="input-control">
-        <input type="search" id="search" placeholder="enter keywords of project name"/>
-        <button>Find</button>
+        <input v-model="searchKeyword" type="search" id="search" placeholder="enter keywords of project name"/>
+        <button @click="search">Find</button>
     </section>
 </template>
 
 <script>
+//No more using this component
 export default{
-    
+    data(){
+        return {
+            searchKeyword:""
+        }
+    },
+    methods:{
+        search(){
+
+        }
+    }
 }
 </script>
 

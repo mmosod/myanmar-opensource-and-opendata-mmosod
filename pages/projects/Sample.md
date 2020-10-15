@@ -1,6 +1,7 @@
 ---
 title: Noe CSS
 type: project
+category: User Interface
 description: I use OOCSS methodology for this framework. Thus, content and container, skin and structure are separated.
 creator: Min Si Thu
 link: https://github.com/MinSiThu/Noe.css
