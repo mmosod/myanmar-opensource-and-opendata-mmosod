@@ -15,6 +15,7 @@ export default {
     },
     mounted(){
         let categoryName = this.$route.query.name;
+        
         this.projects = this.$site.pages.filter(page=>{            
             return page.frontmatter.type == "project";
         }).filter(project=>{            

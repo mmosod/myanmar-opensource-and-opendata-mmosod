@@ -1,7 +1,7 @@
 ---
 title: Rabbit
 type: project
-category: Typography & Fonts
+category: Typography and Fonts
 description: Zawgyi to Unicode Converter
 creator: ---
 link: https://github.com/MinSiThu/Noe.css
