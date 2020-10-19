@@ -16,7 +16,7 @@ export default {
         return {
             categories:[
                 "Algorithms and Data Structures","Animation","Applications","Audio Processing","Build Tools","Compilers",
-                "Data Science & ML","Data Sets","Development Tools","Electronics & Hardware",
+                "Data Science and ML","Data Sets","Development Tools","Electronics and Hardware",
                 "Frameworks","Games","Graphics","Image","Mathematics",
                 "Mobile","Networking","NLP","Open APIs","Operating Systems","Pdfs",
                 "Security tools","Typography and Fonts","User Interface","Videos","Web Servers",   

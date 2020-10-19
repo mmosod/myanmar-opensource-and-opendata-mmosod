@@ -10,6 +10,7 @@ contact: http://www.expa.ai
 documentation: https://github.com/baseresearch/BHDD/blob/master/README.md
 added_time: Sun Oct 11 2020 01:11:15 GMT+0630 (Myanmar Time)
 ---
+<ProjectMeta/>
 
 # BHDD
 Burmese Handwritten Digits Dataset (inspired by MNIST dataset).

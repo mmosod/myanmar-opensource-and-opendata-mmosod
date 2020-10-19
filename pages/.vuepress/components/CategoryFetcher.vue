@@ -1,7 +1,9 @@
 <template>
     <section>
         <ul>
-            <li v-for="project in projects">{{project.title}}</li>
+            <li v-for="project in projects">
+                <router-link :to="project.path">{{project.title}}</router-link>
+            </li>
         </ul>
     </section>
 </template>

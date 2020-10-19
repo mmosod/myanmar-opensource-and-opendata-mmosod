@@ -10,7 +10,7 @@ contact: yan9aye@gmail.com
 documentation: https://github.com/yan9a/mmcal/edit/master/README.md
 added_time: Mon Oct 19 2020 02:40:11 GMT+0630 (Myanmar Time)
 ---
-
+<ProjectMeta/>
 
 # mcal - Implementation of Myanmar Calendar in C++ and Javascript
 

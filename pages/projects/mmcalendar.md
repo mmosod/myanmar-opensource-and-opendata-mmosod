@@ -10,7 +10,7 @@ contact: https://github.com/chanmratekoko/mmcalendar
 documentation: https://chanmratekoko.github.io/mmcalendar/
 added_time: Mon Oct 19 2020 02:41:15 GMT+0630 (Myanmar Time)
 ---
-
+<ProjectMeta/>
 
 [![GitHublicense](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/chanmratekoko/mmcalendar/blob/master/LICENSE) [![Maven Central](https://img.shields.io/badge/Maven%20Central-1.0.4.RELEASE-blue.svg)](https://search.maven.org/remote_content?g=com.github.chanmratekoko&a=myanmar-calendar&v=LATEST)
 
