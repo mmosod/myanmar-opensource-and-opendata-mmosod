@@ -1,5 +1,5 @@
 module.exports = {
-    title:"MMOSOD",
+    title:"Myanmar OpenSource & OpenData",
     description:"Myanmar OpenSource & OpenData Website",
     themeConfig:{
         nav:[
